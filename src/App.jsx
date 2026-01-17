@@ -8,7 +8,6 @@ import { MessageTypes } from "./utils/presets";
 import Footer from "./components/Footer";
 
 
-
 function App() {
   const [file, setFile] = useState(null);
   const [audioStream, setAudioStream] = useState(null);
