@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
   return (
     <header className='flex items-center justify-between gap-4 p-3'>
-            <a href target='_blank'><h1 className='text-[10px] font-medium sm:text-sm text-slate-400'>Copyright © Developed By |<span className='text-slate-600 bold hover:text-slate-800 duration-200'> Sooraj Sutar</span></h1></a>
+            <a href target='_blank'><h1 className='text-[10px] font-medium sm:text-sm text-slate-400'>Copyright © Developed By Mr |<span className='text-slate-600 bold hover:text-slate-800 duration-200'> Sooraj Sutar</span></h1></a>
             <div className='gap-4 flex items-center '>
                 
                 <a href="https://www.instagram.com/awsm_sooraj18" target='_blank' className='flex items-center specialBtni px-2 py-1 text-slate-500 rounded-full duration-200 hover:text-rose-400'>
